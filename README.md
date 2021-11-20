@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KalebJS
+- 👀 I’m interested in machine learning and predictive algorithms
+- 🌱 I’m currently learning data science at Brigham Young University
+- 💞️ I’m looking to collaborate on cool stuff. lmk
